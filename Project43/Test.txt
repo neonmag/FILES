@@ -1,0 +1,14 @@
+Name of company: STEP
+Owner: DMITRIY
+Number: +38909-129328203
+Occupation: EDUCATION
+Adress: SADOVAYA 3
+
+
+Name of company: Microsoft
+Owner: DMITRIY
+Number: +38909-129328203
+Occupation: EDUCATION
+Adress: SADOVAYA 2
+
+
